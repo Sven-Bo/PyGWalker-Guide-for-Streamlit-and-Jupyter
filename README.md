@@ -5,7 +5,6 @@ In this tutorial, I walk you through the PyGWalker functionalities, its integrat
 
 
 ## Video Tutorial
-..will follow soon!
 [![YouTube Video](https://img.youtube.com/vi/Ynt7Etci1KU/0.jpg)](https://youtu.be/Ynt7Etci1KU)
 
 
